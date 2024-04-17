@@ -1,6 +1,9 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Auzmit/frontend-project-11/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Auzmit/frontend-project-11/actions)
 
+### Codeclimate
+[![Maintainability](https://api.codeclimate.com/v1/badges/c438510664eaf2301a5d/maintainability)](https://codeclimate.com/github/Auzmit/frontend-project-11/maintainability)
+
 ## Setup
 
 ```sh
@@ -13,6 +16,6 @@ make install
 make develop
 ```
 
-<img src=https://avatars.githubusercontent.com/u/123180357?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Auzmit‎/>
-            <br />
-            <sub style="font-size:14px"><b>Auzmit‎</b></sub>
+<br/>
+
+[![Auzmit](https://github.com/Auzmit.png?size=100)](https://github.com/Auzmit)
