@@ -366,6 +366,7 @@ select:disabled {
 }
 
 button,[type="button"],[type="reset"],[type="submit"] {
+  appearance: button;
   -webkit-appearance: button
 }
 
@@ -418,6 +419,7 @@ legend+* {
 
 [type="search"] {
   outline-offset: -2px;
+  appearance: textfield;
   -webkit-appearance: textfield
 }
 
@@ -2529,8 +2531,8 @@ textarea.form-control-lg {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  -webkit-print-color-adjust: exact;
-  color-adjust: exact
+  print-color-adjust: exact;
+  -webkit-print-color-adjust: exact
 }
 
 .form-check-input[type="checkbox"] {
